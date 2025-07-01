@@ -12,4 +12,4 @@ A clean and powerful Typing Speed Test web app — featuring modes like Words, N
 
 ### 👤 Developer
 **Ankit**  
-© 2025 Ankit. All rights reserved.
+© 2025. All rights reserved.
